@@ -58,7 +58,7 @@ plot(x = hpc_feb_2007$Time,y = hpc_feb_2007$Global_active_power,type = "l",
 
 
 # copy first plot into png
-dev.copy(png,'plot2.png')
+dev.copy(png,'plot2.png',width = 480, height = 480)
 
 # copy first plot into png
 dev.off()
