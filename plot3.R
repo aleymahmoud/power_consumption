@@ -62,7 +62,7 @@ legend(x = "topright", lty=1, col=c("black","red","blue"),
 
 
 # copy first plot into png
-dev.copy(png,'plot3.png')
+dev.copy(png,'plot3.png',width = 480, height = 480)
 
 # copy first plot into png
 dev.off()
