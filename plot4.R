@@ -84,7 +84,7 @@ plot(hpc_feb_2007$Time,hpc_feb_2007$Global_reactive_power,type="l",xlab="",
 
 
 # copy first plot into png
-dev.copy(png,'plot4.png')
+dev.copy(png,'plot4.png',width = 480, height = 480)
 
 # copy first plot into png
 dev.off()
