@@ -16,22 +16,28 @@ Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It co
 
 
 Solution
+
 #PLOT1
+
 PLOT1.R   : https://github.com/aleymahmoud/power_consumption/blob/master/plot1.R
+
 PLOT1.PNG : https://github.com/aleymahmoud/power_consumption/blob/master/plot1.png
 
 #PLOT2
 
 PLOT2.R   : https://github.com/aleymahmoud/power_consumption/blob/master/plot2.R
+
 PLOT2.PNG : https://github.com/aleymahmoud/power_consumption/blob/master/plot2.png
 
 #PLOT3
 
 PLOT3.R   : https://github.com/aleymahmoud/power_consumption/blob/master/plot3.R
+
 PLOT3.PNG : https://github.com/aleymahmoud/power_consumption/blob/master/plot3.png
 
 #PLOT4
 
 PLOT4.R   : https://github.com/aleymahmoud/power_consumption/blob/master/plot4.R
+
 PLOT4.PNG : https://github.com/aleymahmoud/power_consumption/blob/master/plot4.png
 
